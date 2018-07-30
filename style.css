@@ -25,6 +25,10 @@ body {
   background-color: #fcf8e3;
 }
 
+h1{
+	text-align: center;
+}
+
 .wrapper {
   background-color: #fcf8e3;
   display: table-cell;
